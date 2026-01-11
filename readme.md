@@ -26,6 +26,12 @@ A sleek, responsive, and user-friendly countdown timer built with **Vanilla Java
 
     - **[!iziToast](https://marcelodolza.github.io/iziToast/)** (Elegant notifications)
 
+## 📸 App Preview
+
+|              Main Page               |               Time Picking                |               Ready to Start                |                Countdown                 |
+| :----------------------------------: | :---------------------------------------: | :-----------------------------------------: | :--------------------------------------: |
+| ![mainPage](./src/img/main-page.png) | ![timePicking](./src/img/pickingtime.png) | ![LargeVersion](./src/img/readytostart.png) | ![LargeVersion](./src/img/countdown.png) |
+
 ## 📦 Installation & Setup
 
 1. Clone the repository:
@@ -74,8 +80,8 @@ The UI updates every second until the countdown reaches zero.
 
 **Halenur Gürel** – Asynchronous JavaScript & UI Library Integration 🚀
 
-**[!Live Demo]()** 📍
+**[Live Demo]()** 📍
 
-🔗 **[!GitHub Profile](https://github.com/halenurgurel/)**
+🔗 **[GitHub Profile](https://github.com/halenurgurel/)**
 
 🎯 “This project demonstrates how to handle complex asynchronous flows, manage local and future time states, and provide a polished user experience through custom-styled UI notifications and interactive elements.”
